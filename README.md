@@ -10,14 +10,6 @@ WiFi Scanner is a desktop application developed in Python using PyQt5. It provid
 - **Connection Prompts:** The application uses `QMessageBox` prompts to notify users about the connection status.
 - **Toggle WiFi:** A toggle button allows users to enable or disable WiFi scanning.
 
-## Screenshots
-Here are some screenshots of the application in action:
-
-**WiFi Disabled:**
-!WiFi Disabled
-
-**WiFi Enabled and Connected:**
-!WiFi Enabled and Connected
 
 ## Dependencies
 - Python 3
