@@ -24,9 +24,9 @@ Here are some screenshots of the application in action:
 - PyQt5
 
 ## How to Run
-1. Clone the repository: `git clone YOUR_REPOSITORY_URL`
+1. Clone the repository: `git clone https://github.com/zainabzahara/wifi_scanner.git`
 2. Navigate to the project directory: `cd YOUR_PROJECT_DIRECTORY`
-3. Run the application: `python main.py`
+3. Run the application: `python WS_2.py` #basically main.py
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
